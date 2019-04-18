@@ -16,17 +16,20 @@ Vertical Coupled damped Oscillation simulation
 Simulate the motion.
 
 ## III Step
-writh down the lagrangian
+1. setting 
 
-do the calculation
+2. calculating
 
-run the code
+3. simulating
+
+4. debugging
 
 
 ## IV Assignment
-李巧柔 - coding
-
-else - running 
+ 許承平 林祉均 尹辰恩 calculating
+ 林祉均 李巧柔 - coding
+ 廖健伊 debuging
+ 
 
 
 
