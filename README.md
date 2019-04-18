@@ -17,12 +17,15 @@ Simulate the motion.
 
 ## III Step
 writh down the lagrangian
+
 do the calculation
+
 run the code
 
 
 ## IV Assignment
 李巧柔 - coding
+
 else - running 
 
 
