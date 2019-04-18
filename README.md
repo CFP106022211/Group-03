@@ -1,7 +1,7 @@
 # Group-03
 
 ## Theme
-雷鬼凡
+Vertical Coupled damped Oscillation simulation
 
 
 ## I Members
@@ -13,14 +13,17 @@
 
 
 ## II Goal
-
+Simulate the motion.
 
 ## III Step
-
+writh down the lagrangian
+do the calculation
+run the code
 
 
 ## IV Assignment
-
+李巧柔 - coding
+else - running 
 
 
 
