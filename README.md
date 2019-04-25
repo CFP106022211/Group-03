@@ -26,9 +26,10 @@ Simulate the motion because we think this is interesting.
 
 
 ## IV Assignment
- 許承平 林祉均 尹辰恩 calculating
- 林祉均 李巧柔 - coding
- 廖健伊 debuging
+ 李巧柔 technical counsultant
+ 林祉均 executive commissioner
+ 許承平 尹辰恩 simulation engineer
+ 廖健伊 PR specialist
  
 
 
