@@ -13,22 +13,26 @@ Vertical Coupled damped Oscillation simulation
 
 
 ## II Goal
-Simulate the motion because we think this is interesting.
+simulate the motion because we think this is interesting.
 
 ## III Step
-1. setting 
+1. write down the lagrangian
 
-2. calculating
+2. put it in python language
 
-3. simulating
+3. simulate
 
-4. debugging
+4. compare with analytical approximation used in test.
 
 
 ## IV Assignment
+
  李巧柔 technical counsultant
+ 
  林祉均 executive commissioner
+ 
  許承平 尹辰恩 simulation engineer
+ 
  廖健伊 PR specialist
  
 
