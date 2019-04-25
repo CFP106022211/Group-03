@@ -13,7 +13,7 @@ Vertical Coupled damped Oscillation simulation
 
 
 ## II Goal
-Simulate the motion.
+Simulate the motion because we think this is interesting.
 
 ## III Step
 1. setting 
