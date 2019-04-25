@@ -13,7 +13,7 @@ Vertical Coupled damped Oscillation simulation
 
 
 ## II Goal
-simulate the motion because we think this is interesting.
+simulate the motion of two blocks sliding on fixed verticle axes, connected to each other by springs. because we like Kuo An.
 
 ## III Step
 1. write down the lagrangian
