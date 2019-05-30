@@ -51,7 +51,6 @@ simulate the motion of two blocks sliding on fixed verticle axes, connected to e
  Week 4:
    1. Set up GUI to control parameters of the system.
    2. Debug and refine.
-   3. BATTLE (not me)
    
  Week 5:
    1. Create "random" button to create random parameters.
