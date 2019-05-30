@@ -1,10 +1,10 @@
 # Group-03
 
-## Theme
+## Topic
 Vertical Coupled Oscillation simulation.
 
 
-## I Members
+## I. Members
 1. 106022107 林祉均
 2. 106022128 許承平
 3. 106022101 李巧柔
@@ -12,10 +12,10 @@ Vertical Coupled Oscillation simulation.
 5. 106022110 廖健伊
 
 
-## II Goal
+## II. Goal
 simulate the motion of two blocks sliding on fixed verticle axes, connected to each other by springs. because we like Kuo An.
 
-## III Step
+## III. Step
 1. Write down the lagrangian
 
 2. Put it in python language
@@ -24,7 +24,7 @@ simulate the motion of two blocks sliding on fixed verticle axes, connected to e
 
 4. Create gorgeous visual interface for setting parameter.
 
-## IV Assignment
+## IV. Assignment
 
  李巧柔 technical counsultant
  
@@ -34,7 +34,7 @@ simulate the motion of two blocks sliding on fixed verticle axes, connected to e
  
  廖健伊 PR specialist
  
-## V Work Log
+## V. Work Log
 
  Week 1:
    1. Started to search for physical simulation online, tried to download Vpython and failed.
@@ -59,5 +59,26 @@ simulate the motion of two blocks sliding on fixed verticle axes, connected to e
  Week 6:
    1. Redesign color setting for interface.
    
+ ## VI. Individual Contribution
  
- 
+ 李巧柔 
+   1. In charge of most part of the code construction throughout the entire process.
+   2. Learned to set up GUI via online videos.
+   
+ 尹辰恩
+   1. Provide analytical solution to the problem.
+   2. Took part in the coding process with good effort in debugging.
+   
+ 廖健一
+   1. Double-checked on the analytical solution.
+   2. Main presenter in the weekly update report.
+   
+ 林祉均
+   1. Put in considerable effort in Vpython installation
+   2. Provide inspiration in group discussion concerning debug and visual design
+   3. Wrote this weekly work log
+   
+ 許承平
+   1. Online researcher for new ideas in coding
+   2. Dealt with problems in process of development
+   
